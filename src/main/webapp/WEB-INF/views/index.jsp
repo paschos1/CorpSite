@@ -16,14 +16,6 @@
 								<p class="text-center mb0">
 									We belive in the power of teams.  We take care of our employees, have fitness rooms 
 									and casual dress, and we don't believe in walls.
-									1
-									2
-									3
-									4
-									5
-									6
-									7
-									8
 									
 								</p>
 							</div>
@@ -45,7 +37,7 @@
 					<div class="col-md-5 col-sm-6 col-md-push-7 col-sm-push-6">
 						<h2>Some of the coolest places to work</h2>
 						<p class="lead mb48 mb-xs-32">
-							Ever want to work inside of a mountain? Yeah we did too.  How else are we supposed to keep our 
+							Ever want to work inside of a mountain? Of course, yeah we did too.  How else are we supposed to keep our 
 							cool technologies away from the prying eyes of governments?
 						</p>
 					</div>
