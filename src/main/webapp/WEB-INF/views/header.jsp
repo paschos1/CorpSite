@@ -39,7 +39,7 @@
                                     <a href="/about">About</a>
                                 </li>
                                 <li>
-                                    <a href="/jobs">Careers at Prudential</a>
+                                    <a href="/jobs">Careers</a>
                                 </li>
                                 <li>
                                     <a href="#">
