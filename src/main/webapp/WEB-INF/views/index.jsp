@@ -17,7 +17,6 @@
 									We belive in the power of teams.  We take care of our employees, have fitness rooms 
 									and casual dress, and we don't believe in walls.
 									
-									Testing 1,2,3
 									
 								</p>
 							</div>
