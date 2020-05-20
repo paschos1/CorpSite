@@ -39,7 +39,7 @@
                                     <a href="/about">About</a>
                                 </li>
                                 <li>
-                                    <a href="/jobs">Careers</a>
+                                    <a href="/jobs">Careers at Scotia Bank</a>
                                 </li>
                                 <li>
                                     <a href="#">
